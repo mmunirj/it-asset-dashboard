@@ -1,0 +1,51 @@
+AssetID,DeviceType,Model,Location,AssignedTo,Status,PurchaseDate,DeviceAgeDays,DeviceAgeYears
+A-1001,Monitor,Dell UltraSharp U2722D,London HQ,User 1,Repair,2022-04-08,1304,3.6
+A-1002,Monitor,Dell UltraSharp U2722D,Birmingham Hub,User 2,Spare,2020-09-25,1864,5.1
+A-1003,Laptop,HP Elitebook 840,Manchester Office,User 3,In Use,2020-11-30,1798,4.9
+A-1004,Desktop,Lenovo ThinkPad X1,Remote,User 4,Repair,2024-05-19,532,1.5
+A-1005,Monitor,Lenovo ThinkPad X1,London HQ,Unassigned,Repair,2020-09-29,1860,5.1
+A-1006,Desktop,HP Elitebook 840,Birmingham Hub,User 6,In Use,2020-08-29,1891,5.2
+A-1007,Docking Station,Dell Latitude 5530,Manchester Office,User 7,In Use,2024-10-26,372,1.0
+A-1008,Monitor,Dell Latitude 5520,London HQ,User 8,In Use,2021-08-02,1553,4.3
+A-1009,Monitor,Lenovo ThinkPad X1,Remote,User 9,Repair,2021-06-19,1597,4.4
+A-1010,Monitor,Dell UltraSharp U2722D,Manchester Office,User 10,Repair,2023-08-27,798,2.2
+A-1011,Laptop,Dell Latitude 5530,Manchester Office,Unassigned,Retired,2024-09-21,407,1.1
+A-1012,Laptop,HP Elitebook 840,Birmingham Hub,User 12,Retired,2025-01-22,284,0.8
+A-1013,Docking Station,Dell Latitude 5520,Manchester Office,User 13,Spare,2020-08-12,1908,5.2
+A-1014,Docking Station,Dell Latitude 5520,Manchester Office,User 14,Spare,2024-12-13,324,0.9
+A-1015,Monitor,Lenovo ThinkPad X1,Manchester Office,Unassigned,Retired,2023-05-10,907,2.5
+A-1016,Desktop,HP Elitebook 840,Manchester Office,User 16,Repair,2021-06-04,1612,4.4
+A-1017,Monitor,Dell UltraSharp U2722D,Manchester Office,User 17,Repair,2021-07-08,1578,4.3
+A-1018,Monitor,HP Elitebook 840,Manchester Office,User 18,Retired,2023-09-14,780,2.1
+A-1019,Monitor,Dell Latitude 5530,Remote,User 19,Repair,2024-11-07,360,1.0
+A-1020,Desktop,Dell Latitude 5520,Birmingham Hub,User 20,Retired,2023-02-03,1003,2.7
+A-1021,Docking Station,Dell Latitude 5520,Manchester Office,User 21,In Use,2022-05-27,1255,3.4
+A-1022,Laptop,HP Elitebook 840,Remote,User 22,Repair,2023-07-07,849,2.3
+A-1023,Laptop,Dell Latitude 5530,Remote,User 23,In Use,2023-11-23,710,1.9
+A-1024,Monitor,Dell Latitude 5530,Remote,User 24,Retired,2024-07-10,480,1.3
+A-1025,Desktop,HP Elitebook 840,London HQ,User 25,Spare,2024-01-17,655,1.8
+A-1026,Monitor,Dell UltraSharp U2722D,Manchester Office,User 26,In Use,2021-08-20,1535,4.2
+A-1027,Desktop,HP Elitebook 840,Remote,User 27,Repair,2021-03-10,1698,4.7
+A-1028,Laptop,Dell UltraSharp U2722D,Birmingham Hub,User 28,In Use,2020-06-26,1955,5.4
+A-1029,Desktop,Lenovo ThinkPad X1,Remote,User 29,In Use,2023-10-27,737,2.0
+A-1030,Docking Station,HP Elitebook 840,Manchester Office,User 30,Retired,2022-06-01,1250,3.4
+A-1031,Docking Station,Dell Latitude 5530,Birmingham Hub,User 31,In Use,2023-02-22,984,2.7
+A-1032,Docking Station,Lenovo ThinkPad X1,Remote,User 32,Retired,2022-09-13,1146,3.1
+A-1033,Monitor,Dell Latitude 5520,Birmingham Hub,User 33,Repair,2024-11-09,358,1.0
+A-1034,Laptop,Lenovo ThinkPad X1,Manchester Office,Unassigned,Retired,2023-06-25,861,2.4
+A-1035,Laptop,HP Elitebook 840,London HQ,User 35,Retired,2021-08-23,1532,4.2
+A-1036,Desktop,Lenovo ThinkPad X1,Remote,User 36,Retired,2024-12-21,316,0.9
+A-1037,Monitor,Dell Latitude 5530,Remote,User 37,Spare,2024-11-29,338,0.9
+A-1038,Desktop,Dell Latitude 5530,London HQ,User 38,Spare,2020-10-03,1856,5.1
+A-1039,Desktop,Dell Latitude 5530,Manchester Office,User 39,Repair,2023-10-10,754,2.1
+A-1040,Monitor,Dell UltraSharp U2722D,Manchester Office,User 40,In Use,2024-09-04,424,1.2
+A-1041,Laptop,Dell UltraSharp U2722D,London HQ,User 41,Spare,2025-02-13,262,0.7
+A-1042,Monitor,Dell Latitude 5530,Remote,User 42,In Use,2021-01-31,1736,4.8
+A-1043,Docking Station,Dell Latitude 5520,London HQ,Unassigned,In Use,2021-02-10,1726,4.7
+A-1044,Laptop,Dell UltraSharp U2722D,Remote,Unassigned,Retired,2024-05-07,544,1.5
+A-1045,Desktop,Dell Latitude 5530,Remote,Unassigned,Retired,2023-12-20,683,1.9
+A-1046,Laptop,HP Elitebook 840,Manchester Office,User 46,Retired,2020-05-23,1989,5.4
+A-1047,Docking Station,Lenovo ThinkPad X1,Remote,User 47,Retired,2021-08-14,1541,4.2
+A-1048,Docking Station,Lenovo ThinkPad X1,Manchester Office,User 48,In Use,2020-07-03,1948,5.3
+A-1049,Laptop,HP Elitebook 840,Birmingham Hub,Unassigned,Spare,2024-12-22,315,0.9
+A-1050,Laptop,Lenovo ThinkPad X1,London HQ,User 50,Retired,2025-01-29,277,0.8
